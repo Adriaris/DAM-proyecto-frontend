@@ -36,6 +36,17 @@ android {
 }
 
 dependencies {
+    //RETROFIT
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    //GSON
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    //COROUTINES
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.4.1")
+    //GLIDE
+    implementation("com.github.bumptech.glide:glide:4.13.2")
+    annotationProcessor("com.github.bumptech.glide:compiler:4.13.2")
+
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")

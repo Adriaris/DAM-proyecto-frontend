@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">PETCARE</string>
     <string name="slogan">Ya la cuidamos nosotros</string>
+    <string name="welcome_message">Bienvenido a Petcare</string>
+    <string name="menu_settings">Configuraciones</string>
     <string name="num_contacto">+34 648782668</string>
     <string name="mail_contacto">info@petcare.com</string>
     <string name="direccion_contacto">Carrer Pelai 14 Barcelona</string>
 </resources>
+
+
 
